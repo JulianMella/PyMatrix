@@ -9,3 +9,5 @@ Once satisfied with the results, go back to the PyGrid UI, select the path where
 Keep in mind that the python file that is generated is only a set of all the cubes within the boundaries and not the boundaries themselves. This design choice was due to the use case for a University Exam I have.
 
 Bugs are to be expected, but it works 95% of the time:)
+
+TODO: Change naming of things from Grid to Matrix in the scripting code, i got my terminology messed up.. kinda lazy to do that rn. 
