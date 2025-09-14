@@ -1,4 +1,4 @@
-# PyGrid - Unity based tool to create a 2D grid with obstacles
+# PyMatrix - Unity based tool to create a matrix with obstacles
 
 This tool gives you a user interface under Window -> UI Toolkit -> PyGrid, which when utilized, creates a grid.
 
