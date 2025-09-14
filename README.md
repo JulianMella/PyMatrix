@@ -1,5 +1,7 @@
 # PyMatrix - Unity based tool to create a matrix with obstacles
 
+Edit: Continuation of this project is found here [PyTensor](https://github.com/JulianMella/PyTensor)
+
 This tool gives you a user interface under Window -> UI Toolkit -> PyGrid, which when utilized, creates a grid.
 
 The grid consists of boundary cubes and spheres within. The spheres are clickable, if clicked it turns into cube which marks it as an obstacle within the course.
